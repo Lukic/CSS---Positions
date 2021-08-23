@@ -1,0 +1,39 @@
+body {
+  color: #fff;
+  font-size: 25px;
+}
+section {
+  background-color: grey;
+  padding: 20px;
+  margin: 100px;
+  position: relative;
+  margin-top: 400px;
+  margin-bottom: 1600px;
+}
+
+div {
+  padding: 20px;
+  background-color: rosybrown;
+}
+
+#one {
+  background-color: rgb(172, 51, 51);
+}
+
+#two {
+  background-color: rgb(46, 46, 193);
+}
+
+#three {
+  background-color: rgb(37, 106, 37);
+}
+
+.absolute {
+  position: absolute;
+}
+
+.sticky-item {
+  background-color: black;
+  position: sticky;
+  top: 0px;
+}
